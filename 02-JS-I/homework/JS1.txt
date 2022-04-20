@@ -1,0 +1,7 @@
+*Variables: son elementos que nos permiten almacenar algún dato, que será utilizado más adelante en nuestro código.
+*Strings: cualquier texto o cadena es un tipo de datos string. Siempre va entre comillas.
+*Funciones: son objetos invocables, que permiten ejecutar un bloque de código con un fin específico, y que pueden llamarse tantas veces lo necesitemos, evitando así reescribir código redundante. 
+*Argumentos de una función: son datos que les pasamos a las funciones para que los utilicen en su bloque de código.
+*Return: es una declaración que se emplea para que el código que está ejecutándose en una función, se detenga y retorne algo. Es la forma de sacar datos de una función.
+*If: Es una declaración que permite controlar el flujo del código, estableciendo que si alguna condición se cumple o es true, realiza cierta acción, sino el código avanza.
+*Valores booleanos: son un tipo de datos que hacen referncia a la logica de Boole, en donde solo hay dos posibilidades, como la binaria, en donde es 0 o 1, en este caso si algo es verdadero (true), sino es falso (false).
