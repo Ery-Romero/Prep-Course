@@ -1,0 +1,4 @@
+*For: es una sentencia que realiza un bucle, es decir, que repite un bloque de código mientras se cumple una condición o un tiempo determinado. Se escribe utilizando la palabra reservada For, () y {}. Dentro d los () van 3 declaraciones: la iniciación de una variable, la condición que debe cumplirse y el incremento de la variable, todas estas separadas por un punto y coma.
+*&&: es un operador lógico que permite combinar expresiones de igualdad o comparación. Significa "Y" o "AND", y retornará true sólo cuando ambas expresiones lo sean, sino será false.
+*||: también es un operador lógico y significa "O" u "OR". Este retornará true en todos los casos, excepto cuando ambas expresiones son false.
+*!: es un operador lógico de negación. Significa "NO" o "NOT". Devuelve lo contrario a lo que indica la expresión. También se lo coloca antes del signo igual (!==) y significa "no es igual".
