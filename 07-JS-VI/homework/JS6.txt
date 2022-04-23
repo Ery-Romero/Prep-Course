@@ -1,0 +1,1 @@
+*Callbacks: se llaman callbacks a las funciones que pasan como argumento de otras funciones. Por convención se denota con cb al argumento que pasara como callback.
